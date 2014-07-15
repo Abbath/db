@@ -705,7 +705,7 @@ int command(){ //Робота з базою даних
 	return 0;
 }
 int main(/*int argc, char const *argv[]*/){
-	cout << "Direct access database. Lizanets Danylo © 2012.\n"
+	cout << "Direct access database. 2012.\n"
 		<< "h for help.\n";
 	command();
 	return 0;
