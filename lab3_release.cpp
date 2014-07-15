@@ -835,7 +835,7 @@ int command(){ //Робота з базою даних
 }
 int main(/*int argc, char const *argv[]*/)
 {
-    cout << "Index-Sequentual database. Lizanets Danylo © 2012.\nh for help\n";
+    cout << "Index-Sequentual database. 2012.\nh for help\n";
     command();
     return 0;
 }
