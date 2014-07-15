@@ -995,7 +995,7 @@ int command(){ //Робота з базою даних
 	return 0;
 }
 int main(int argc, const char *argv[]){
-	cout << "Sequental access database. Lizanets Danylo © 2012\n"
+	cout << "Sequental access database. 2012\n"
 	<< "h for help.\n";
 	command();
     return 0;
